@@ -1,0 +1,24 @@
+{
+    "name": "scss-start",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "scss": "sass --watch scss:public/stylesheets"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/recca004/scss-start.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/recca004/scss-start/issues"
+    },
+    "homepage": "https://github.com/recca004/scss-start#readme",
+    "dependencies": {
+        "dev": "^0.1.3",
+        "sass": "^1.35.1"
+    }
+}
